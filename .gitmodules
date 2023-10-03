@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/hl5ky/hl5ky.github.io.git
 	branch = master
+
+[submodule "docsy"]
+	path = themes/docsy
+	url = https://github.com/hl5ky/docsy

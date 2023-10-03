@@ -1,5 +1,7 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "HL5KY & HL5BTF Amateur Radio"
+
+# theme = "docsy"
 
 # Language settings
 contentDir = "content/en"
