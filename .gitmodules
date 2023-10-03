@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hl5ky/hl5ky.github.io.git
+	branch = master
